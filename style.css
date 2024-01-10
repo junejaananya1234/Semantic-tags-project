@@ -1,0 +1,173 @@
+
+
+#container{
+    height:100vh;
+    width:60%;
+    background-color: white;
+    border: 3px solid green;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#bcontainer{
+    width:auto;
+    height:25%;
+    background-color: #2785F1;
+    padding: 0;
+    margin:0;
+    
+
+}
+#text{
+    margin-top: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+#navcontainer{
+    height:40px;
+    background-color: #2A23EF;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h2{
+    color:white;
+    margin-left:6px;
+    padding-top: 6px;
+    font-family: sans-serif;
+    
+    
+    
+}
+
+#mcontainer{
+      height:55%;
+      background-color:#F8BF2F;
+      width: 35em;
+      padding: 0;
+      
+}
+h1{
+    margin: 0;
+    margin-left: 6px;
+    font-family: sans-serif;
+    
+}
+
+#section1{
+    height:30%;
+    width: 90%;
+    background-color: #FAA019;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+}
+ #section2{
+    height:40%;
+    width: 90%;
+    background-color: #FAA019;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+ } 
+ h4{
+    
+    margin:0;
+    margin-left:6px;
+    padding-top: 6px;
+    font-family: sans-serif;
+ } 
+ 
+ #Fcontainer{
+    height:40px;
+    background-color: #F9AB24;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+ }
+
+ #Scontainer{
+    height:40px;
+    background-color: #F9AB24;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+ }
+
+ 
+ .styling{
+    color:white;
+ }
+    
+#aside{
+    height:322px;
+    width:12em;
+    background-color: #FA2419;
+    margin-top: -282px;
+    margin-left: 557px;
+    margin-right:40px;    
+    
+    
+}
+#text2{
+     margin: 0;
+     text-align: center;
+     padding-top: 10px;
+     font-family: sans-serif;
+
+}
+#section3{
+    height:30%;
+    width: 10em;
+    background-color:#F97771;
+    display: inline-block;
+    margin-left: 13px;
+    margin-right: auto;
+    margin-top: 10px;
+}
+#section4{
+    height:40%;
+    width: 10em;
+    background-color: #F97771;
+    display: inline-block;
+    margin-left: 13px;
+    margin-right: auto;
+    margin-top: 10px;
+    
+}
+.font{
+    color:white;
+    text-align: center;
+    font-family: sans-serif;
+}
+#footer{
+    width:auto;
+    height:20%;
+    background-color:#0BC808 ;
+    
+    
+    padding: 0;
+    margin:0;
+}
+
+#text3{
+    text-align: center;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
